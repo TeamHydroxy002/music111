@@ -5,7 +5,7 @@
 ### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://https://telegra.ph/file/5c254dbde48afcf431ea0.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
