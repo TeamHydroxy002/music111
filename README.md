@@ -5,7 +5,7 @@
 ### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
 
 <p align="center">
-  <img src="https://https://telegra.ph/file/5c254dbde48afcf431ea0.jpg">
+  <img src="https://telegra.ph/file/5c254dbde48afcf431ea0.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -115,15 +115,5 @@ This bot is based on the original work done by [Rojserbest](http://github.com/ro
 DaisyXmusic is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @DaisyXbot users
 
 #### Contribtors
-- [InukaASiTH](https://github.com/InukaAsith): Dev
-- [Technical-Hunter](https://github.com/Technical-Hunter): Dev
-- [Rojserbest](http://github.com/rojserbest): Dev
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [Bemro](https://github.com/bemroofficial): Dev
-- [QueenArzoo](https://github.com/QueenArzoo): Dev
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
-- [Hamker Cat](https://github.com/thehamkercat/)
-- [Anjana-Ma](https://github.com/Anjana-Ma): 
-- [ImJanindu](https://github.com/ImJanindu): 
-- [MARSHALX](https://github.com/MarshalX): TgCalls
+
 - [Original Repo owners](https://github.com/CallsMusic/CallsMusic)
