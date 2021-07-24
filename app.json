@@ -1,6 +1,6 @@
 {
-  "name": "DaisyXMusic",
-  "logo": "https://telegra.ph/file/36ff1b571aa11df5812de.jpg",
+  "name": "Realme",
+  "logo": "https://telegra.ph/file/5c254dbde48afcf431ea0.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/TeamofDaisyX/DaisyXMusic",
