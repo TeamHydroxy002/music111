@@ -38,15 +38,15 @@ def _start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ Add me to your Group 🙋‍♀️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
+                        "⚜ ƛƊƊ ƬƠ ƓƦƠƲƤ ⚜", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "📲 Updates", url=f"https://t.me/{UPDATES_CHANNEL}"), 
+                        "🔱σωηєя🔱", url=f"https://t.me/{OWNER}"), 
                     InlineKeyboardButton(
-                        "💬 Support", url=f"https://t.me/{SUPPORT_GROUP}")
+                        "❤¢яє∂ιтѕ❤", url=f"https://t.me/{CREDITS}")
                 ],[
                     InlineKeyboardButton(
-                        "🛠 Source Code 🛠", url=f"https://{SOURCE_CODE}")
+                        "🔰ᕼYᗪᖇO᙭Y🔰", url=f"https://telegra.ph/file/5c254dbde48afcf431ea0.jpg")
                 ]
             ]
         ),
@@ -61,7 +61,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💬 Support Chat", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "OWNER", url=f"https://t.me/{OWNER}"
                     )
                 ]
             ]
@@ -99,11 +99,11 @@ def map(pos):
             [InlineKeyboardButton(text = '▶️', callback_data = "help+2")]
         ]
     elif(pos==len(tr.HELP_MSG)-1):
-        url = f"https://t.me/{SUPPORT_GROUP}"
+        url = f"https://t.me/{CREDITS}"
         button = [
             [InlineKeyboardButton("➕ Add me to your Group 🙋‍♀️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-            [InlineKeyboardButton(text = '📲 Updates', url=f"https://t.me/{UPDATES_CHANNEL}"),
-             InlineKeyboardButton(text = '💬 Support', url=f"https://t.me/{SUPPORT_GROUP}")],
+            [InlineKeyboardButton(text = '📲 Updates', url=f"https://t.me/{OWNER}"),
+             InlineKeyboardButton(text = '💬 Support', url=f"https://t.me/{CREDITS}")],
             [InlineKeyboardButton(text = '🛠 Source Code 🛠', url=f"https://{SOURCE_CODE}")],
             [InlineKeyboardButton(text = '◀️', callback_data = f"help+{pos-1}")]
         ]
