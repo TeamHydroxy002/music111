@@ -31,8 +31,8 @@
       "required": false,
       "value": ""
     },
-    "SUPPORT_GROUP": {
-      "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
+    "CREDITS": {
+      "description": " without @ [Leave this if you don't have one]",
       "required": false,
       "value": "DaisySupport_Official"
     },
@@ -55,8 +55,8 @@
       "required": false,
       "value": " https://telegra.ph/file/dcfdf612e499eef0e0b1f.png"
     },     
-    "UPDATES_CHANNEL": {
-      "description": "Updates Channel without @ [Leave this if you don't have one].",
+    "OWNER": {
+      "description": " without @ [Leave this if you don't have one].",
       "required": false,
       "value": "DaisyXupdates"
     },    
